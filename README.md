@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-This project provides an **automated pipeline** for downloading, fine-tuning, and deploying **small language models (LLMs)** using **Ollama**. Additionally, it includes a **synthetic dataset generator** that creates meaningful text classification data for training AI models.
+This project provides an **automated pipeline** for downloading, fine-tuning, and deploying **small language models (SLMs)** using **Ollama**. Additionally, it includes a **synthetic dataset generator** that creates meaningful text classification data for training AI models.
 
 By following this guide, you'll be able to:
 - Generate **synthetic training data** for LLM fine-tuning.
