@@ -6,7 +6,7 @@ This project provides an **automated pipeline** for downloading, fine-tuning, an
 
 By following this guide, you'll be able to:
 - Generate **synthetic training data** for LLM fine-tuning.
-- Automate the process of **fine-tuning a small LLM**.
+- Automate the process of **fine-tuning a SLM**.
 - Deploy and run an optimized model on your **local machine** using Ollama.
 - Run a **report script** to evaluate the performance of the fine-tuned model.
 
