@@ -113,5 +113,5 @@ MIT License - Feel free to modify and use this project!
 
 ---
 
-Enjoy building AI-powered solutions with **Small LLMs & Ollama**! 🎉🚀
+Enjoy building AI-powered solutions with **SLMs & Ollama**! 🎉🚀
 
