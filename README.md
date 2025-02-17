@@ -77,7 +77,7 @@ python automate_llm.py
 ```
 
 This script will:
-1. **Download a small LLM** (DistilBERT by default).
+1. **Download a SLM** (DistilBERT by default).
 2. **Fine-tune the model** using the synthetic dataset.
 3. **Export the fine-tuned model** for deployment.
 4. **Run the trained model** to generate predictions.
