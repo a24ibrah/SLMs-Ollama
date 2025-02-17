@@ -1,0 +1,4 @@
+transformers
+ollama
+pandas
+faker
